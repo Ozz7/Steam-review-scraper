@@ -1,6 +1,6 @@
 # Steam-review-scraper
 Python scripts to extract customer reviews of games from steam. The extracted reviews along with the users's steam id, language, upvotes and No. of reviews by the user are written into an excel sheet.
-There are 5 scripts which can be used to get the output in 5 different formats.
+There are 4 variations of the script.
 
 - steam_review.py - Input the genre, start page and end page queries. Get the reviews of all the games in the inputted pages in seperate excel sheets.
 - similar_games.py - Input the genre, start page and end page queries. Specify the tags for the game for which you want to find the similar games in the code. Get lists of similar games and their app ids as output.
